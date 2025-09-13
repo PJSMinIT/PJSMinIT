@@ -13,7 +13,8 @@ Here are some ideas to get you started:
   - **LinkedIn:** [www.linkedin.com/in/pjsminit](#)
   - **Medium/Portfolio:** [https://medium.com/@pjsminit](#)
   - **Email:** pjsminit@gmail.com
-- ⚡ Fun fact: Overly enthusiastic BJJ practicioner 🥋.
+- ⚡ Fun facts: Overly enthusiastic BJJ practicioner 🥋.
+                Long-time family caregiver, building patience and problem-solving skills
 
 ---
 
