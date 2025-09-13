@@ -10,9 +10,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with advanced threat analysis and SIEM automation.
 - 💬 Ask me about SOC tools, scripting, and incident response workflows.
 - 📫 How to reach me:
+  - **Email:** pjsminit@gmail.com
+  - **Portfolio:** [https://PJSMinIT.github.io](https://PJSMinIT.github.io)
   - **LinkedIn:** [www.linkedin.com/in/pjsminit](#)
   - **Medium/Portfolio:** [https://medium.com/@pjsminit](#)
-  - **Email:** pjsminit@gmail.com
 - ⚡ Fun facts:
     - Overly enthusiastic BJJ practicioner 🥋
     - Long-time family caregiver, building patience and problem-solving skills
