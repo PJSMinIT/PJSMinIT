@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   - **LinkedIn:** [www.linkedin.com/in/pjsminit](#)
   - **Medium/Portfolio:** [https://medium.com/@pjsminit](#)
   - **Email:** pjsminit@gmail.com
-- ⚡ Fun fact: Overly enthusiastic BJJ practicioner \U0001F94B.
+- ⚡ Fun fact: Overly enthusiastic BJJ practicioner 🥋.
 
 ---
 
